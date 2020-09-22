@@ -78,13 +78,20 @@ sep_new
 **Prompt:** Dean Amanda Claybaugh is concerned about the drop in undergradaute enrollment in some courses between September 1 and today. She wants you to analyze this issue. Before you dive into the details, provide some bullet points as to how Wisdom and Temperance apply to this situation. Every student should have several bullet points. Someone will be asked to share their screen and discuss.
 
 Before we start on the model, Wisdom suggests we should:
-# Being mindful of the data (decreased rows by 7 meaning 7 classes/sections dropped)
-# focus our attention on undergrad enrollment instead of grad enrollment/other people
-# global pandemic...people taking leaves of absences, etc.
+# Being mindful of the data (decreased rows by 7 meaning 7 classes/sections 
+# dropped)
+
+# focus our attention on undergrad enrollment instead of grad enrollment or
+# other people
+
+# global pandemic...people taking leaves of absences, etcc
 
 
 After we have a model, Temperance suggests we should:
-#
+# not assume reasons for why enrollment dropped / why individual students made 
+# the decisions that they made
+
+# correlation is not causation!
 
 
 ### Scene 3
