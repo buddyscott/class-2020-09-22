@@ -98,6 +98,16 @@ After we have a model, Temperance suggests we should:
 
 **Prompt:** Which classes had the biggest increases and decreases in undergraduate enrollments between September 1 and today? Make a graphic that shows the 5 biggest increases and decreases. Make it look nice.
 
+```{r}
+sep_diff <- 
+  inner_join(sep_new, sep_old, by = c("id", "name", "title", "department")) %>%
+  mutate(u_grad.diff = u_grad.y - u_grad.x) %>%
+  arrange(desc(u_grad.diff)) %>%
+  slice(c(1:5, 412:416))
+
+  
+  
+```
 
 
 
