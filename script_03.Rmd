@@ -17,7 +17,6 @@ library(janitor)
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-hello world
 ### Scene 0
 
 **Prompt:**  First, figure out what is wrong with the `sep_old` object. Edit the above code to fix it.
